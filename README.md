@@ -13,7 +13,7 @@ Skills: C# / ANGULAR / PYTHON / JS / HTML / CSS
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/realShinchoku?cardType=level-alternate&theme=github-dark&Title=2AACDD&Ring=2AACDD&Text=2AACDD)](https://git.io/awesome-stats-card)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realShinchoku)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realShinchoku&thêm=github)  
 
 ![GitHub metrics](https://metrics.lecoq.io/realShinchoku)  
 
