@@ -11,7 +11,7 @@ Skills: C# / ANGULAR / PYTHON / JS / HTML / CSS
 - 🔭 I’m currently working on Institute of natural resources and environment 
 - 🌱 I’m currently learning ASP.NET, ANGULAR 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/realShinchoku?cardType=level-alternate&theme=github-dark&Title=2AACDD&Ring=2AACDD&Text=2AACDD)](https://git.io/awesome-stats-card)![GitHub metrics](https://metrics.lecoq.io/realShinchoku)  
+[!GitHub metrics](https://metrics.lecoq.io/realShinchoku) ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/realShinchoku?cardType=level-alternate&theme=github-dark&Title=2AACDD&Ring=2AACDD&Text=2AACDD)](https://git.io/awesome-stats-card)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realShinchoku&theme=github)  
 
