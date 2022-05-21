@@ -3,6 +3,3 @@
 - IG: <a href="https://www.instagram.com/man0love/">@man0love</a>
 - DC: Shinchoku#9513
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realShinchoku)](https://github.com/realShinchoku)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realShinchoku)](https://github.com/realShinchoku)
-
