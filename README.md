@@ -16,8 +16,7 @@ Skills: C# / ANGULAR / PYTHON / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realShinchoku)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=realShinchoku&show_icons=true)  
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/realShinchoku?cardType=level-alternate&theme=github-dark&Title=2AACDD&Ring=2AACDD&Text=2AACDD)](https://git.io/awesome-stats-card)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realShinchoku)  
 
 ![GitHub metrics](https://metrics.lecoq.io/realShinchoku)  
