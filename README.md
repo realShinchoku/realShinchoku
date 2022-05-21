@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&color=5389F7&multiline=true&width=500&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Ti%E1%BA%BFn.;Can+know+as+Shinchoku)](https://git.io/typing-svg)
-![Can know as Shinchoku](https://w.wallhaven.cc/full/pk/wallhaven-pk12dp.png)
 
 I'm a full-stack dev. Born in 2001. Learning on Thuy Loi University.
 
@@ -16,7 +15,5 @@ Skills: C# / ANGULAR / PYTHON / JS / HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realShinchoku&theme=github)  
 
 ![GitHub metrics](https://metrics.lecoq.io/realShinchoku)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=realShinchoku)  
 
 ![Profile views](https://gpvc.arturio.dev/realShinchoku)  
