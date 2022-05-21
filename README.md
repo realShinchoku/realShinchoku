@@ -3,3 +3,4 @@
 - IG: <a href="https://www.instagram.com/man0love/">@man0love</a>
 - DC: Shinchoku#9513
  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realShinchoku&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
