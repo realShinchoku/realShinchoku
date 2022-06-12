@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/realShinchoku)  
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&color=5389F7&multiline=true&width=500&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Ti%E1%BA%BFn.;Can+know+as+Shinchoku)](https://git.io/typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&color=5389F7&multiline=true&width=500&height=100&lines=Hi+there+%F0%9F%91%8B%2C+my+name+is+Ti%E1%BA%BFn.;Can+know+as+Shinchoku"/>
 </div>
 I'm a full-stack dev. Born in 2001. Learning on Thuy Loi University.
 
