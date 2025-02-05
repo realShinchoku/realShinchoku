@@ -30,10 +30,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/tom_os_ia_gnohk_iah_os_ohc_co/" target="_blank">
+  <a href="https://instagram.com/realShinchoku/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="discord.com/users/realshinchoku" target="_blank">
+  <a href="https://discord.com/users/realshinchoku" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:tienmp3@gmail.com" target="_blank">
